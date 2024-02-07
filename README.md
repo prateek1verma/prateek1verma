@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Prateek
-- 🔭 Currently working as a Postdoc Researcher at HIFMB
-- 🎓 Ph.D. in Physics from IISER Kolkata
+- 🔭 Currently working as a Postdoc Researcher at HIFMB, Germany.
+- 🎓 Ph.D. in Physics from IISER Kolkata, India.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/prateek1science/)
 ---
 > अप्राप्यं नाम नेहास्ति धीरस्य व्यवसायिनः।
