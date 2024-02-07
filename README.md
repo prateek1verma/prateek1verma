@@ -5,6 +5,13 @@
 ---
 > There is nothing unattainable to the one who has courage and who works hard.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 <!--
 **prateek1verma/prateek1verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
