@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Prateek
-- 🔭 Currently working as a Postdoc Researcher at HIFMB, Germany.
+- 🔭 Currently working as an Assistant Project Scientist at UC Berkeley, CA, USA.
 - 🎓 Ph.D. in Physics from IISER Kolkata, India.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/prateek1science/)
 ---
